@@ -1,0 +1,3 @@
+PCA(contamination=0.1, copy=True, iterated_power='auto', n_components=None,
+  n_selected_components=None, random_state=None, standardization=True,
+  svd_solver='auto', tol=0.0, weighted=True, whiten=False)

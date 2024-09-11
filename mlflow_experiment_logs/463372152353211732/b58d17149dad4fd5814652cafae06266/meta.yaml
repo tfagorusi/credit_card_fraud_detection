@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Tolu/MachineLearning/madewithml/credit_card_fraud_detection/mlflow_experiment_logs/463372152353211732/b58d17149dad4fd5814652cafae06266/artifacts
+end_time: 1723796712199
+entry_point_name: ''
+experiment_id: '463372152353211732'
+lifecycle_stage: active
+run_id: b58d17149dad4fd5814652cafae06266
+run_name: PCA_Model_Run_test
+run_uuid: b58d17149dad4fd5814652cafae06266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723796708025
+status: 3
+tags: []
+user_id: Tolu
