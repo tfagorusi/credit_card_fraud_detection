@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection
 
 This project focuses on a data science approach to  developing a credit card fraud detection machine learning model. In this project, I considered some outlier dection algorithms like KIsolation forest, KNN (from pyOD library) to detect fraud on credit card transactions. In the development stage, MLflow was used for tracking model training experiments. Using the best performing model from my experiments,  I performed batch and online inferences (using FASTAPI app) for model serving. To get this project running on your machine, follow the steps outline below:
-- Run this prompts on command line interface (CLI):
+- Run the following prompts on command line interface (CLI):
   
 -- `mkdir credit_card_fraud_detection_project` # create a project directory
 
